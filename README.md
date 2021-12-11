@@ -1,4 +1,4 @@
-# Godot Gradient Shift Shader
+# <img src="https://github.com/KoBeWi/Godot-Gradient-Shift-Shader/blob/main/Media/Icon.png" width="64" height="64"> Godot Gradient Shift Shader
 A very simple shader that lets you achieve the effect of palette cycling. Using this shader is extremely cheap for performance.
 
 ## Basic usage

@@ -11,7 +11,7 @@ You need 2 images: base image, which is grayscale, and a palette, which is a sin
 
 To achieve the best effect, the textures need to meet these criteria:
 
-- the grayscale texture must have `filter` import option disabled
+- the node with shader should have `texture_filter` set to Nearest
 - the color count in the original texture and the palette should be the same
 - shades of gray in the original texture need to have equal increments in their value (e.g. `0.333`, `0.666`, `1.0`, but not `0.2`, `0.5`, `1.0`)
 
